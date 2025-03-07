@@ -1,5 +1,5 @@
 {
-	"name": "Dataset",
+	"name": "Dataset_source_Dynamic",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
