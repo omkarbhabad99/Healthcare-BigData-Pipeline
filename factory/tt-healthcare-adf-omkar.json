@@ -1,0 +1,9 @@
+{
+	"name": "tt-healthcare-adf-omkar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c08af793-5ecf-4dea-ae7c-c35f352ebb9d",
+		"tenantId": "0d4da0f8-4a31-4d76-ace6-0a62331e1b84"
+	}
+}
