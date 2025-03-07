@@ -10,6 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "25 needs statements.pdf",
+				"folderPath": "demo",
 				"fileSystem": "bronze"
 			},
 			"columnDelimiter": ",",
