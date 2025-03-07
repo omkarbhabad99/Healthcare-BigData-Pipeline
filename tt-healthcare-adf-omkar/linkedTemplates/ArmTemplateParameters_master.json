@@ -5,10 +5,10 @@
 		"factoryName": {
 			"value": "tt-healthcare-adf-omkar"
 		},
-		"Basic_read_write_link_to_storagaccount_accountKey": {
+		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
-		"Basic_read_write_link_to_storagaccount_properties_typeProperties_url": {
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://ttadlsdevomkar.dfs.core.windows.net/"
 		},
 		"containerUri": {
