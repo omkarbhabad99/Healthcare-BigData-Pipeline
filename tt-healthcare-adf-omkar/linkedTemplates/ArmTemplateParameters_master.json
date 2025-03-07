@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "tt-healthcare-adf-omkar"
+		},
+		"Basic_read_write_link_to_storagaccount_accountKey": {
+			"value": ""
+		},
+		"Basic_read_write_link_to_storagaccount_properties_typeProperties_url": {
+			"value": "https://ttadlsdevomkar.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
